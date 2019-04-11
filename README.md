@@ -77,3 +77,6 @@ Enter your username and pass.
 
 ![test](https://github.com/EduardoAule/RaspberryPI-Transmission/blob/master/transmission.png)
     
+##Contributing
+
+Please let me know if you would like to contribute any Actions or other features! Also please inquire me about any issues or confusion in documentation.
