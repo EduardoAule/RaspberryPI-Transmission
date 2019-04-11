@@ -60,7 +60,7 @@ your local network then it should be *.*.*.* which represents all IPs.
 
     "rpc-whitelist": "*.*.*.*",
 
-May as well disable the whitelist if you are allowing all IPs
+May as well disable the whitelist if you are allowing all IPs:
 
     "rpc-whitelist-enabled": false
 
@@ -69,6 +69,11 @@ May as well disable the whitelist if you are allowing all IPs
     sudo /etc/init.d/transmission-daemon start
     
 ## Check Transmission in the Browser
+Open your favorite browser and type:
+    
+    ip-raspberrypi:9091
 
-![test](https://github.com/EduardoAule/RaspberryPI-Transmission/edit/master/transmission.png)
+Enter your username and pass.
+
+![test](https://github.com/EduardoAule/RaspberryPI-Transmission/blob/master/transmission.png)
     
