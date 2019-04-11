@@ -79,4 +79,4 @@ Enter your username and pass.
     
 ## Contributing
 
-Please let me know if you would like to contribute any Actions or other features! Also please inquire me about any issues or confusion in documentation.
+Please let me know if you would like to contribute. Also please inquire me about any issues or confusion in documentation.
